@@ -11,3 +11,4 @@ interface PlaceSale
 {
     public function execute(PlaceSaleCommand $command): SaleView;
 }
+

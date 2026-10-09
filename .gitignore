@@ -1,0 +1,16 @@
+/vendor
+/.phpunit.result.cache
+.env
+.env.backup
+.env.production
+.phpunit.cache
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
